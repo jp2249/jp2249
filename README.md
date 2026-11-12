@@ -13,8 +13,8 @@ I work on NLP, Deep Learning Models, and Model Interpretability.  Outside of cla
 | Project | What it does | Tech |
 |---|---|---|
 | [**ModelLens**](https://github.com/jp2249/DSAN-6600-ModelLens) | AI interpretability platform (Python package + Streamlit app) that traces how corrupted inputs diverge from clean ones inside transformers, tested on GPT-2 (774M parameters) | PyTorch, Transformers, Streamlit |
-| [**Final Thoughts**]((https://github.com/jp2249/5400-Final-Project)) | NLP framework for emotion detection and text classification on death row final statements, including a custom "Remorse Score" | Python, NLP |
-| [**Extra! Extra!**][(LINK)](https://github.com/jp2249/ExtraExtra) | Comparative sentiment and bias analysis of U.S. vs. international news headlines over time | Hugging Face Datasets, VADER, Dbias |
+| [**Final Thoughts**](https://github.com/jp2249/5400-Final-Project) | NLP framework for emotion detection and text classification on death row final statements, including a custom "Remorse Score" | Python, NLP |
+| [**Extra! Extra!**](https://github.com/jp2249/ExtraExtra) | Comparative sentiment and bias analysis of U.S. vs. international news headlines over time | Hugging Face Datasets, VADER, Dbias |
 
 <!--
 **jp2249/jp2249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
