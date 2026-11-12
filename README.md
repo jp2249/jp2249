@@ -35,6 +35,13 @@ I work on NLP, Deep Learning Models, and Model Interpretability.  Outside of cla
 
 **Also:** Pandas, scikit-learn, SciPy, NumPy, Polars, Matplotlib/Seaborn, ggplot2/tidyverse, Streamlit, Athena, SPSS, bash
 
+## Education
+- **Georgetown University**: M.S., Data Science & Analytics (September 2025 - May 2027). ANLY Scholarship. Coursework: Machine Learning App Deployment, Big Data & Cloud Computing, Advanced Deep Learning & Neural Networks, Reinforcement Learning, Statistical Learning and Analysis, Advanced Data Visualization, Computation Linguistics With Advanced Python
+- **Elon University**: B.S., Statistics (Actuarial).  Elon College Fellows Scholarship.  President of Mu Sigma Rho (National Statistics Honor Society).
+
+## Connect
+[Linkedin](https://www.linkedin.com/in/jeffrey-pinarchick/) . [Email](mailto:jbpin17@gmail.com) . [Portfolio](Add In Later)
+
 <!--
 **jp2249/jp2249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
