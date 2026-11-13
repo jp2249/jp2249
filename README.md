@@ -40,7 +40,7 @@ I work on NLP, Deep Learning Models, and Model Interpretability.  Outside of cla
 - **Elon University**: B.S., Statistics (Actuarial).  Elon College Fellows Scholarship.  President of Mu Sigma Rho (National Statistics Honor Society).
 
 ## Connect
-[Linkedin](https://www.linkedin.com/in/jeffrey-pinarchick/) | [Email](mailto:jbpin17@gmail.com) | [Portfolio](Add In Later)
+[Linkedin](https://www.linkedin.com/in/jeffrey-pinarchick/) | [Email](mailto:jbpin17@gmail.com) | [Portfolio](https://jp2249.github.io/)
 
 <!--
 **jp2249/jp2249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
